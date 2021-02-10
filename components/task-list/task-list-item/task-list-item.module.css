@@ -1,0 +1,13 @@
+.taskListItem {
+  padding: 4px 8px;
+  margin: 2px 0px;
+  display: flex;
+  background: #fff;
+}
+.title {
+  flex: 1;
+  margin: auto 0;
+}
+.btnGroup {
+  display: flex;
+}
